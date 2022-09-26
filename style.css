@@ -1,0 +1,23 @@
+.top-bg{
+    background-color: #FFF9F4;
+}
+.nike-react{
+    font-size: 80px;
+    color:  #363958;
+}
+.infinity-run{
+    color: #FA804C;
+}
+.body-bg{
+    background-color: #E5E5E5;
+}
+.price-color{
+    color: #FA804C;
+}
+@media (max-width:992px) {
+
+.nike-react{
+    font-size:60px
+}
+    
+}
